@@ -25,6 +25,6 @@ Basic Data Structures like:
 
 12.BST(BinarySearchTree)
 
-13.Prefix to Postfix 
+13.Infix to Postfix 
 
 14.Postfix Evaluation
