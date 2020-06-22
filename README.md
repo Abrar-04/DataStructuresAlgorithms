@@ -30,3 +30,15 @@ Basic Data Structures like:
 13.Infix to Postfix 
 
 14.Postfix Evaluation
+
+15.Select Sort
+
+16.Bubble Sort
+
+17.Insert Sort
+
+18.Merge Sort
+
+19.Quick Sort
+
+20.Heap Sort
